@@ -15,11 +15,12 @@ Tiny Lean to Markdown document generator.
 
 ## Install
 
-[Install the Lean toolchain](https://lean-lang.org/install/), 
-then inside this project directory, run
+[Install Lean](https://lean-lang.org/install/) then run
 
 ```
 lake run install
 ```
+
+in the project directory.
 
 
