@@ -11,7 +11,7 @@ Run `md MyLeanFile.lean` to generate a `MyLeanFile.lean.md` file.
   - Lean code is converted to Markdown code blocks,
 
   - Lean comments that start with `"\\-!"` (aka module documentation) 
-    are converted to markdown, the others stay verbatim in code blocks.
+    are converted to Markdown, the others stay verbatim in code blocks.
 
 ## Install
 
