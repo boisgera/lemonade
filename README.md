@@ -2,7 +2,7 @@
 
 [![Build](https://github.com/boisgera/md/workflows/Build/badge.svg)](https://github.com/boisgera/md/actions/workflows/build.yml)
 
-Tiny Markdown document generator for Lean.
+Tiny Lean to Markdown document generator.
 
 Execute e.g.
 
@@ -14,7 +14,7 @@ to generate a `MyLeanFile.lean.md` file.
 
   - Lean code is converted to Markdown code blocks,
 
-  - Lean comments that start with "\-!" (aka module documentation) 
+  - Lean comments that start with `"\\-!"` (aka module documentation) 
     are converted to markdown, the others stay verbatim in code blocks.
 
 ## Install
