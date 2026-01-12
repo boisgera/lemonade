@@ -1,1 +1,27 @@
-# dg
+# md
+
+Tiny Markdown document generator for Lean.
+
+Execute e.g.
+
+```
+md MyLeanFile.lean
+```
+
+to generate a `MyLeanFile.lean.md` file.
+
+  - Lean code is converted to Markdown code blocks,
+
+  - Lean comments that start with "\-!" (aka module documentation) 
+    are converted to markdown, the others stay verbatim in code blocks.
+
+## Install
+
+[Install the Lean toolchain](https://lean-lang.org/install/), 
+then inside this project directory, run
+
+```
+lake run install
+```
+
+
