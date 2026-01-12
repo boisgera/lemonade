@@ -1,6 +1,6 @@
 # md
 
-![Lean Build](https://github.com/boisgera/md/workflows/Lean%20Action%20CI/badge.svg)
+![Lean Build](https://github.com/boisgera/md/workflows/Build/badge.svg)
 
 Tiny Markdown document generator for Lean.
 
