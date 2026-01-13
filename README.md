@@ -8,16 +8,18 @@ Turn the file `Lemon.lean`
 
 ```lean
 /-!
-I ❤️ lemons! -
+I ❤️ lemons!
 -/
+
 def lemon := "🍋"
 ```
 
 into `Lemon.lean.md`
 
 ````markdown
-I ❤️ lemons! -
+I ❤️ lemons!
 ```lean
+
 def lemon := "🍋"
 ```
 ````
