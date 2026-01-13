@@ -1,12 +1,14 @@
 # Lemonade
 
+[![Build](https://github.com/boisgera/md/workflows/Build/badge.svg)](https://github.com/boisgera/md/actions/workflows/build.yml)
+
+A Tiny Lean to Markdown converter.
+
 <p align="center">
   <img src="images/lemonade.png" alt="Lemonade">
 </p>
 
-[![Build](https://github.com/boisgera/md/workflows/Build/badge.svg)](https://github.com/boisgera/md/actions/workflows/build.yml)
-
-Tiny Lean to Markdown converter.
+-----
 
 Turn the file `Lemon.lean`
 
