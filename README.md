@@ -18,8 +18,8 @@ into `Lemon.lean.md`
 
 ````markdown
 I ❤️ lemons!
-```lean
 
+```lean
 def lemon := "🍋"
 ```
 ````
